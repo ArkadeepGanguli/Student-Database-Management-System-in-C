@@ -1,0 +1,2 @@
+75,John,Doe,9.62
+80,Alice,Whiskerson,9.24
